@@ -1,0 +1,9 @@
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\bin\Release\PictureLight.exe.config
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\bin\Release\PictureLight.exe
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\bin\Release\PictureLight.pdb
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\obj\Release\PictureLight.Properties.Resources.resources
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\obj\Release\PictureLight.csproj.GenerateResource.Cache
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\obj\Release\PictureLight.exe
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\obj\Release\PictureLight.pdb
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\obj\Release\PictureLight.PictureLight.resources
+C:\Users\um\Documents\Visual Studio 2013\Projects\Crack\PictureLight\PictureLight\obj\Release\PictureLight.csprojResolveAssemblyReference.cache
